@@ -1,0 +1,35 @@
+2022-06-21 14:38:57,185-D:/ApiTest/utils/LogsUtils.py-DEBUG-this is a debug
+2022-06-21 14:44:20,783-Requests-DEBUG-发送post请求
+2022-06-21 17:42:22,653-Requests-DEBUG-发送post请求
+2022-06-21 17:42:23,426-Requests-DEBUG-发送post请求
+2022-06-21 17:42:23,861-Requests-DEBUG-发送get请求
+2022-06-21 17:44:01,885-Requests-DEBUG-发送post请求
+2022-06-21 17:44:02,310-Requests-DEBUG-发送post请求
+2022-06-21 17:44:02,646-Requests-DEBUG-发送get请求
+2022-06-21 17:44:38,433-Requests-DEBUG-发送post请求
+2022-06-21 17:44:39,010-Requests-DEBUG-发送post请求
+2022-06-21 17:44:39,571-Requests-DEBUG-发送get请求
+2022-06-21 20:58:36,725-Requests-DEBUG-发送post请求
+2022-06-21 20:58:37,430-Requests-DEBUG-发送get请求
+2022-06-21 21:00:50,572-Requests-DEBUG-发送post请求
+2022-06-21 21:00:51,496-Requests-DEBUG-发送post请求
+2022-06-21 21:00:52,149-Requests-DEBUG-发送get请求
+2022-06-21 21:01:19,375-Requests-DEBUG-发送post请求
+2022-06-21 21:01:20,130-Requests-DEBUG-发送post请求
+2022-06-21 21:01:20,707-Requests-DEBUG-发送get请求
+2022-06-21 21:01:50,263-Requests-DEBUG-发送post请求
+2022-06-21 21:01:50,870-Requests-DEBUG-发送get请求
+2022-06-21 21:02:29,594-Requests-DEBUG-发送post请求
+2022-06-21 21:02:30,320-Requests-DEBUG-发送post请求
+2022-06-21 21:02:30,756-Requests-DEBUG-发送get请求
+2022-06-21 22:25:10,812-Requests-DEBUG-发送post请求
+2022-06-21 22:25:11,522-AssertUtil-ERROR-不包含或者body是错误的,body is {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6InB5dGhvbiIsInVzZXJfaWQiOjEsImVtYWlsIjoiOTUyNjczNjM4QHFxLmNvbSIsImV4cCI6MTY1NTkwNzkwOX0.GiRubil0Xooi_ukLLUN-xFD4Y5h0b2aComWOwY582to", "username": "python", "user_id": 1},expected_body is "id":"1","username":"python"
+2022-06-21 22:26:47,782-Requests-DEBUG-发送post请求
+2022-06-21 22:27:26,891-Requests-DEBUG-发送post请求
+2022-06-21 22:29:30,789-Requests-DEBUG-发送post请求
+2022-06-21 22:30:50,229-Requests-DEBUG-发送post请求
+2022-06-21 22:30:51,253-Requests-DEBUG-发送post请求
+2022-06-21 22:30:51,967-Requests-DEBUG-发送get请求
+2022-06-21 22:32:05,057-Requests-DEBUG-发送post请求
+2022-06-21 22:32:06,034-Requests-DEBUG-发送post请求
+2022-06-21 22:32:06,457-Requests-DEBUG-发送get请求

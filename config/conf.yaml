@@ -1,0 +1,14 @@
+
+BASE:
+  log_level: debug
+  log_extension: ".log"
+  test:
+    url: "http://211.103.136.242:8064"
+  tasecase_file: "../data/接口测试用例.xlsx"
+  sheet_name: "0"
+
+email:
+  smtpserver: "smtp.163.com"
+  username: "demon119@163.com"
+  password: "test123456"
+  receiver: "demon119@163com"

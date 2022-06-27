@@ -1,0 +1,6 @@
+db_uat:
+  host: "211.103.136.242"
+  user: "test"
+  passwd: "test123456"
+  database: "meiduo"
+  port: "7090"
